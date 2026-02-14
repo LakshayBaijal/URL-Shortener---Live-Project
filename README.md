@@ -5,7 +5,6 @@
 https://url-shortener-live-project.onrender.com/docs
 ```
 
-- Download Repository
 
 - Run Server
 ```br
