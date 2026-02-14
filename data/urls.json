@@ -1,0 +1,10 @@
+{
+    "b": {
+        "original_url": "https://google.com",
+        "clicks": 0
+    },
+    "c": {
+        "original_url": "https://google.com",
+        "clicks": 1
+    }
+}
