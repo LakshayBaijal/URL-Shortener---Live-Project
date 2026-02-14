@@ -5,7 +5,7 @@ from fastapi.responses import RedirectResponse
 
 app = FastAPI()
 
-BASE_URL = "http://127.0.0.1:8000/"
+BASE_URL = "https://url-shortener-live-project.onrender.com/"
 
 
 @app.get("/")
@@ -181,3 +181,4 @@ def redirect_to_original(short_id: str):
 import os
 
 PORT = int(os.environ.get("PORT", 8000))
+
