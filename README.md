@@ -11,7 +11,7 @@ https://url-shortener-live-project.onrender.com/docs
 uvicorn main:app --reload
 ```
 
-- Open in Web Browser
+- Open in Web Browser Locally
 ```br
 http://127.0.0.1:8000/docs
 ```
